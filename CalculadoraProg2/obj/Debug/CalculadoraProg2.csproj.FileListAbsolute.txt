@@ -1,0 +1,10 @@
+C:\Users\Carlos Alejandro\Desktop\Programacion\C#\CalculadoraProg2\CalculadoraProg2\bin\Debug\CalculadoraProg2.exe.config
+C:\Users\Carlos Alejandro\Desktop\Programacion\C#\CalculadoraProg2\CalculadoraProg2\bin\Debug\CalculadoraProg2.exe
+C:\Users\Carlos Alejandro\Desktop\Programacion\C#\CalculadoraProg2\CalculadoraProg2\bin\Debug\CalculadoraProg2.pdb
+C:\Users\Carlos Alejandro\Desktop\Programacion\C#\CalculadoraProg2\CalculadoraProg2\obj\Debug\CalculadoraProg2.csproj.AssemblyReference.cache
+C:\Users\Carlos Alejandro\Desktop\Programacion\C#\CalculadoraProg2\CalculadoraProg2\obj\Debug\CalculadoraProg2.Form1.resources
+C:\Users\Carlos Alejandro\Desktop\Programacion\C#\CalculadoraProg2\CalculadoraProg2\obj\Debug\CalculadoraProg2.Properties.Resources.resources
+C:\Users\Carlos Alejandro\Desktop\Programacion\C#\CalculadoraProg2\CalculadoraProg2\obj\Debug\CalculadoraProg2.csproj.GenerateResource.cache
+C:\Users\Carlos Alejandro\Desktop\Programacion\C#\CalculadoraProg2\CalculadoraProg2\obj\Debug\CalculadoraProg2.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alejandro\Desktop\Programacion\C#\CalculadoraProg2\CalculadoraProg2\obj\Debug\CalculadoraProg2.exe
+C:\Users\Carlos Alejandro\Desktop\Programacion\C#\CalculadoraProg2\CalculadoraProg2\obj\Debug\CalculadoraProg2.pdb
